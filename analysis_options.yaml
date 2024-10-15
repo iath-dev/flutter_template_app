@@ -34,5 +34,6 @@ analyzer:
   errors:
     unused_local_variable: error
     dead_code: error
+    empty_constructor_bodies: ignore
 # Additional information about this file can be found at
 # https://dart.dev/guides/language/analysis-options
